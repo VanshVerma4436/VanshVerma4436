@@ -52,7 +52,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/VanshVerma4436/VanshVerma4436/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/VanshVerma4436/VanshVerma4436/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
