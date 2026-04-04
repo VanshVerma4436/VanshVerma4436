@@ -28,12 +28,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=VanshVerma4436\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshVerma4436&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=VanshVerma4436\&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VanshVerma4436&theme=tokyonight" />
+</p>
 ---
 
 ## 🏆 Achievements  
