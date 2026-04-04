@@ -38,7 +38,7 @@
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=VanshVerma4436\&theme=algolia)
+![Trophies](https://github-profile-trophy.vercel.app/?username=VanshVerma4436\&theme=algolia\&no-frame=true\&margin-w=10)
 
 ---
 
