@@ -36,9 +36,14 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=VanshVerma4436\&theme=algolia\&no-frame=true\&margin-w=10)
+- 🥇 **Top 850 / 40,000+** – HCL GUVI Buildathon  
+- 🧠 **Smart India Hackathon (SIH) 2025 Participant**  
+- 🥉 **3rd Place – Inlighx Global Hackathon**  
+- 💻 **150+ Problems Solved** on LeetCode  
+- ☁️ **Google Cloud Arcade Program Completed**  
+- 🔐 **Cybersecurity Workshop @ IIT Delhi**  
 
 ---
 
