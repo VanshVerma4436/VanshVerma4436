@@ -10,37 +10,27 @@
 
 ## 🧠 About Me
 
-* 🎓 B.Tech (Hons.) CSE (AI/ML & Data Analytics) @ GLA University
+* 🎓 B.Tech (Hons.) CSE (AI/ML & Data Analytics)
 * 🔐 Focused on Cybersecurity & Anomaly Detection
 * ⚡ Building real-time ML systems & backend APIs
-* 🌐 Full-stack dev (React + FastAPI + Django)
+* 🌐 React + FastAPI + Django Developer
 
 ---
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Languages
-
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
-
-### ⚙️ Frameworks
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge\&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge\&logo=django)
-
-### 🗄️ Database
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=VanshVerma4436\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=VanshVerma4436\&show_icons=true\&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=VanshVerma4436\&theme=tokyonight)
 
@@ -48,25 +38,21 @@
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=VanshVerma4436\&theme=algolia\&no-frame=true\&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=VanshVerma4436\&theme=algolia)
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projects
 
-### 🔐 Trinetra – Zero Trust Cyber Defense
+* 🔐 Trinetra – Zero Trust Cyber Defense
+* 🤖 Pathify – AI Career Prediction
+* 🛡️ NeuraSentinel – Intrusion Detection
 
-* Azure + Django + AI
-* Secure authentication & audit logs
+---
 
-### 🤖 Pathify – Career Prediction System
+## 🐍 Contribution Snake
 
-* ML model + FastAPI + MongoDB
-
-### 🛡️ NeuraSentinel – Intrusion Detection
-
-* 92% accuracy anomaly detection
-* Real-time monitoring dashboard
+![Snake animation](https://raw.githubusercontent.com/VanshVerma4436/VanshVerma4436/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -76,5 +62,3 @@
 * 📧 Email: [goluvansh93@gmail.com](mailto:goluvansh93@gmail.com)
 
 ---
-
-⭐ *AI + Security = Future*
