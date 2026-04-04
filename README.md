@@ -2,15 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Cybersecurity+Enthusiast;Building+Real-Time+Intelligent+Systems;FastAPI+%7C+Django+%7C+React" />
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=VanshVerma4436\&label=Profile%20Views\&color=0e75b6\&style=flat)
+### 🚀 AI/ML Engineer | Cybersecurity Enthusiast
 
 </div>
 
@@ -19,10 +11,9 @@
 ## 🧠 About Me
 
 * 🎓 B.Tech (Hons.) CSE (AI/ML & Data Analytics) @ GLA University
-* 🔐 Focused on **Cybersecurity, Anomaly Detection & Zero Trust Systems**
-* ⚡ Building **real-time ML pipelines + scalable backend systems**
-* 🌐 Full-stack developer (React + FastAPI + Django)
-* ☁️ Exploring **Cloud Security (Microsoft Azure)**
+* 🔐 Focused on Cybersecurity & Anomaly Detection
+* ⚡ Building real-time ML systems & backend APIs
+* 🌐 Full-stack dev (React + FastAPI + Django)
 
 ---
 
@@ -35,15 +26,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Frameworks
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge\&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge\&logo=django)
-
-### 🧠 AI / ML
-
-Classification • Regression • Anomaly Detection
-Feature Engineering • Model Evaluation
 
 ### 🗄️ Database
 
@@ -52,69 +38,43 @@ Feature Engineering • Model Evaluation
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=VanshVerma4436\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
 
-<img src="https://github-readme-stats.vercel.app/api?username=VanshVerma4436&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshVerma4436&theme=tokyonight" height="160"/>
-
-</div>
+![Streak](https://streak-stats.demolab.com?user=VanshVerma4436\&theme=tokyonight)
 
 ---
 
 ## 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VanshVerma4436&theme=matrix&no-frame=true&row=1&column=6" />
-
-</div>
+![Trophies](https://github-profile-trophy.vercel.app/?username=VanshVerma4436\&theme=algolia\&no-frame=true\&margin-w=10)
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🔐 Trinetra – Zero Trust Cyber Defense Platform
+### 🔐 Trinetra – Zero Trust Cyber Defense
 
-* ☁️ Azure + Django + AI (Llama-3)
-* 🔒 mTLS authentication & biometric verification
-* 📜 Immutable audit logs
-* ⚡ Secure & scalable backend architecture
+* Azure + Django + AI
+* Secure authentication & audit logs
 
----
+### 🤖 Pathify – Career Prediction System
 
-### 🤖 Pathify – AI Career Prediction System
+* ML model + FastAPI + MongoDB
 
-* 🧠 ML classification model
-* ⚡ FastAPI backend + MongoDB
-* 📊 Feature engineering & real-world dataset training
+### 🛡️ NeuraSentinel – Intrusion Detection
 
----
-
-### 🛡️ NeuraSentinel – Intrusion Detection System
-
-* 🚨 92% accuracy (anomaly detection)
-* 📡 Real-time traffic monitoring dashboard
-* 🔗 API-based classification system
+* 92% accuracy anomaly detection
+* Real-time monitoring dashboard
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/VanshVerma4436/VanshVerma4436/output/github-contribution-grid-snake.svg)
-
----
-
-## 📫 Connect with Me
+## 📫 Connect
 
 * 💼 LinkedIn: https://www.linkedin.com/in/vansh-verma4436/
 * 📧 Email: [goluvansh93@gmail.com](mailto:goluvansh93@gmail.com)
 
 ---
 
-<div align="center">
-
-⭐ *"Securing systems with intelligence & building scalable AI solutions"*
-
-</div>
+⭐ *AI + Security = Future*
