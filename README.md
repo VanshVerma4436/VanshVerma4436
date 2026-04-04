@@ -2,7 +2,15 @@
 
 <div align="center">
 
-### 🚀 AI/ML Engineer | Cybersecurity Enthusiast | Backend Developer
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Cybersecurity+Enthusiast;Building+Real-Time+Intelligent+Systems;FastAPI+%7C+Django+%7C+React" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=VanshVerma4436\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 </div>
 
@@ -11,47 +19,55 @@
 ## 🧠 About Me
 
 * 🎓 B.Tech (Hons.) CSE (AI/ML & Data Analytics) @ GLA University
-* 🔐 Passionate about **Cybersecurity & Anomaly Detection**
-* ⚡ Building **real-time ML systems & scalable backend architectures**
-* 🌐 Experienced in **FastAPI, Django & REST APIs**
-* ☁️ Exploring **Cloud (Microsoft Azure)**
+* 🔐 Focused on **Cybersecurity, Anomaly Detection & Zero Trust Systems**
+* ⚡ Building **real-time ML pipelines + scalable backend systems**
+* 🌐 Full-stack developer (React + FastAPI + Django)
+* ☁️ Exploring **Cloud Security (Microsoft Azure)**
 
 ---
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Programming
+### 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
 
-### 🤖 Machine Learning
-
-* Classification • Regression • Anomaly Detection
-* Feature Engineering • Feature Scaling • Model Evaluation
-
-### ⚙️ Frameworks & Tools
+### ⚙️ Backend & Frameworks
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge\&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge\&logo=django)
+
+### 🧠 AI / ML
+
+Classification • Regression • Anomaly Detection
+Feature Engineering • Model Evaluation
+
+### 🗄️ Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
 
-### 📊 Data & Visualization
-
-Pandas • NumPy • Matplotlib • Seaborn
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=VanshVerma4436\&show_icons=true\&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=VanshVerma4436&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshVerma4436&theme=tokyonight" height="160"/>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=VanshVerma4436\&theme=radical)
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VanshVerma4436&theme=matrix&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -61,37 +77,26 @@ Pandas • NumPy • Matplotlib • Seaborn
 
 ### 🔐 Trinetra – Zero Trust Cyber Defense Platform
 
-* ☁️ Built using **Django + Microsoft Azure + AI (Llama-3)**
-* 🔒 Implemented **mTLS authentication & biometric verification**
-* 📜 Immutable audit logs for secure forensic workflows
-* ⚡ Designed scalable backend for secure data handling
+* ☁️ Azure + Django + AI (Llama-3)
+* 🔒 mTLS authentication & biometric verification
+* 📜 Immutable audit logs
+* ⚡ Secure & scalable backend architecture
 
 ---
 
 ### 🤖 Pathify – AI Career Prediction System
 
-* 🧠 ML-based career recommendation using classification
-* ⚡ FastAPI backend with MongoDB integration
-* 📊 Applied feature engineering & model optimization
+* 🧠 ML classification model
+* ⚡ FastAPI backend + MongoDB
+* 📊 Feature engineering & real-world dataset training
 
 ---
 
-### 🛡️ NeuraSentinel – Network Intrusion Detection System
+### 🛡️ NeuraSentinel – Intrusion Detection System
 
-* 🚨 Anomaly detection-based ML model (**92% accuracy**)
-* 📡 Real-time network traffic monitoring dashboard
-* 🔗 API-based packet classification system
-
----
-
-## 🏆 Achievements
-
-* 🥇 Top 850 / 40,000+ in **HCL GUVI Buildathon**
-* 🧠 Selected for **Smart India Hackathon (SIH) 2025**
-* 🥉 3rd place – Inlighx Global Hackathon
-* 💻 Solved **150+ DSA problems (LeetCode)**
-* ☁️ Google Cloud Arcade Program completed
-* 🔐 Cybersecurity workshop @ IIT Delhi
+* 🚨 92% accuracy (anomaly detection)
+* 📡 Real-time traffic monitoring dashboard
+* 🔗 API-based classification system
 
 ---
 
@@ -108,4 +113,8 @@ Pandas • NumPy • Matplotlib • Seaborn
 
 ---
 
-⭐ *"Building intelligent systems for secure and scalable digital future"*
+<div align="center">
+
+⭐ *"Securing systems with intelligence & building scalable AI solutions"*
+
+</div>
